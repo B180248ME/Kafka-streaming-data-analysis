@@ -26,4 +26,7 @@ Used different technologies such as Python, Amazon Web Services (AWS), Apache Ka
 5. EC2
 - Apache Kafka
 
+## Dataset Used
+Dataset used to create streaming data - https://github.com/B180248ME/kafka-streaming-data-analysis/blob/main/Data/ProcessingData.csv
+
 
