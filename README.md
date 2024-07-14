@@ -11,7 +11,7 @@ Used different technologies such as Python, Amazon Web Services (AWS), Apache Ka
 - Connected to EC2 instance through SSH to run the kafka server and zoo-keeper
 - Streaming data is created by producer and received by consumer
 - Consumer writes the data to AWS S3 instance
-- Crawler is created in AWS Glue to traverse all the data and use to query in AWS Athena
+- Crawler is created in AWS Glue to traverse all the data in S3 bucket and use to query in AWS Athena
 
 ## Architecture 
 <img src="Architecture.jpg">
